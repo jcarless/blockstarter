@@ -1,0 +1,26 @@
+{
+  "name": "blockstarter",
+  "version": "1.0.0",
+  "description": "Blockchain version of kickstarter. Written with Solidity and React. Running on the Rinkeby test network.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcarless/blockstarter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcarless/blockstarter/issues"
+  },
+  "homepage": "https://github.com/jcarless/blockstarter#readme",
+  "dependencies": {
+    "fs-extra": "^5.0.0",
+    "ganache-cli": "^6.0.3",
+    "mocha": "^4.1.0",
+    "solc": "^0.4.19",
+    "web3": "^1.0.0-beta.26"
+  }
+}
